@@ -1,2 +1,2 @@
 # gitDemo
-revision of git
+Revision of git
